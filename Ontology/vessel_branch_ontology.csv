@@ -1,0 +1,61 @@
+﻿p
+(:Artery {name: Left anterior basal MCA})-[:FOLLOW]->(:Artery {name: Left internal carotid artery})
+(:Artery {name: Right MCA M1})-[:FOLLOWS]->(:Artery {name: Right internal carotid artery})
+(:Artery {name: Right M2 superior})-[:FOLLOWS]->(:Artery {name: Right MCA M1})
+(:Artery {name: Right M2 inferior})-[:FOLLOWS]->(:Artery {name: Right MCA M1})
+(:Artery {name: Left_MCA_Superior})-[:FOLLOW]->(:Artery {name: Left anterior basal MCA})
+(:Artery {name: Left_MCA_Inferior})-[:FOLLOW]->(:Artery {name: Left anterior basal MCA})
+"(:Artery {name: Right ACA A1,A2})-[:FOLLOWS]->(:Artery {name: Right internal carotid artery})"
+"(:Artery {name: Left ACA A1,A2})-[:FOLLOWS]->(:Artery {name: Left internal carotid artery})"
+(:Artery {name: Right orbitofrontal artery})-[:FOLLOWS]->(:Artery {name: Right M2 superior})
+(:Artery {name: Right MCA PreRolandic artery})-[:FOLLOWS]->(:Artery {name: Right M2 superior})
+(:Artery {name: Right MCA Rolandic artery})-[:FOLLOWS]->(:Artery {name: Right M2 superior})
+(:Artery {name: Right MCA Anterior Parietal artery})-[:FOLLOWS]->(:Artery {name: Right M2 inferior})
+(:Artery {name: Right MCA Postior Parietal artery})-[:FOLLOWS]->(:Artery {name: Right M2 inferior})
+(:Artery {name: Right MCA Angular artery})-[:FOLLOWS]->(:Artery {name: Right M2 inferior})
+(:Artery {name: Right MCA Posterior Temporal  artery})-[:FOLLOWS]->(:Artery {name: Right M2 inferior})
+(:Artery {name: Right MCA Midtemporal  artery})-[:FOLLOWS]->(:Artery {name: Right M2 inferior})
+(:Artery {name: Right MCA Antior temporal  artery})-[:FOLLOWS]->(:Artery {name: Right M2 inferior})
+(:Artery {name: Left MCA orbitofrontal artery})-[:FOLLOWS]->(:Artery {name: Left_MCA_Superior})
+(:Artery {name: Left MCA PreRolandic artery})-[:FOLLOWS]->(:Artery {name: Left_MCA_Superior})
+(:Artery {name: Left MCA Rolandic artery})-[:FOLLOWS]->(:Artery {name: Left_MCA_Superior})
+(:Artery {name: Left MCA Anterior Parietal artery})-[:FOLLOWS]->(:Artery {name: Left_MCA_Inferior})
+(:Artery {name: Left MCA Postior Parietal artery})-[:FOLLOWS]->(:Artery {name: Left_MCA_Inferior})
+(:Artery {name: Left MCA Angular artery})-[:FOLLOWS]->(:Artery {name: Left_MCA_Inferior})
+(:Artery {name: Left MCA Posterior Temporal  artery})-[:FOLLOWS]->(:Artery {name: Left_MCA_Inferior})
+(:Artery {name: Left MCA Midtemporal  artery})-[:FOLLOWS]->(:Artery {name: Left_MCA_Inferior})
+(:Artery {name: Left MCA Antior temporal  artery})-[:FOLLOWS]->(:Artery {name: Left_MCA_Inferior})
+"(:Artery {name: Right ACA orbitofrontal artery})-[:FOLLOWS]->(:Artery {name: Right ACA A1,A2})"
+"(:Artery {name: Right ACA Frontopolar artery})-[:FOLLOWS]->(:Artery {name: Right ACA A1,A2})"
+"(:Artery {name: Right ACA Callosamarginal artery})-[:FOLLOWS]->(:Artery {name: Right ACA A1,A2})"
+"(:Artery {name: Right ACA Pericallosal artery})-[:FOLLOWS]->(:Artery {name: Right ACA A1,A2})"
+"(:Artery {name: Left ACA orbitofrontal artery})-[:FOLLOWS]->(:Artery {name: Left ACA A1,A2})"
+"(:Artery {name: Left ACA Frontopolar artery})-[:FOLLOWS]->(:Artery {name: Left ACA A1,A2})"
+"(:Artery {name: Left ACA Callosamarginal artery})-[:FOLLOWS]->(:Artery {name: Left ACA A1,A2})"
+"(:Artery {name: Left ACA Pericallosal artery})-[:FOLLOWS]->(:Artery {name: Left ACA A1,A2})"
+(:Artery {name: Right vertebral artery})-[:BRANCH_OUT]->(:Artery {name: Right posterior inferior cerebellar artery})
+(:Artery {name: Right vertebral artery})-[:MERGES_INTO]->(:Artery {name: Basilar artery})
+(:Artery {name: Left vertebral artery})-[:BRANCH_OUT]->(:Artery {name: Left posterior inferior cerebellar artery})
+(:Artery {name: Left vertebral artery})-[:MERGES_INTO]->(:Artery {name: Basilar artery})
+"(:Artery {name: Left Hippocampal artery})-[:FOLLOW]->(:Artery {name: Left PCA P1, P2, P3})"
+"(:Artery {name: Right Hippocampal artery})-[:FOLLOW]->(:Artery {name: Right PCA P1, P2, P3})"
+"(:Artery {name: Right PCA Anterior Temporal artery})-[:FOLLOW]->(:Artery {name: Right PCA P1, P2, P3})"
+"(:Artery {name: Right PCA Posterior Temporal artery})-[:FOLLOW]->(:Artery {name: Right PCA P1, P2, P3})"
+"(:Artery {name: Right Parieto-occipital artery})-[:FOLLOW]->(:Artery {name: Right PCA P1, P2, P3})"
+"(:Artery {name: Right calcarine artery})-[:FOLLOW]->(:Artery {name: Right PCA P1, P2, P3})"
+"(:Artery {name: Left Parieto-occipital artery})-[:FOLLOW]->(:Artery {name: Left PCA P1, P2, P3})"
+"(:Artery {name: Left calcarine artery})-[:FOLLOW]->(:Artery {name: Left PCA P1, P2, P3})"
+"(:Artery {name: Basilar artery})-[:FOLLOWS]->(:Artery {name: Right PCA P1, P2, P3})"
+(:Artery {name: Basilar artery})-[:BRANCH_OUT]->(:Artery {name: Right anterior inferior cerebellar artery})
+(:Artery {name: Basilar artery})-[:BRANCH_OUT]->(:Artery {name: Right superior cerebellar artery})
+(:Artery {name: Basilar artery})-[:BRANCH_OUT]->(:Artery {name: Left anterior inferior cerebellar artery})
+(:Artery {name: Basilar artery})-[:BRANCH_OUT]->(:Artery {name: Left superior cerebellar artery})
+"(:Artery {name: Basilar artery})-[:FOLLOW]->(:Artery {name: Left PCA P1, P2, P3})"
+(:Artery {name: Right posterior communicating artery})-[:CONNECT_BETWEEN]->(:Artery {name: Right internal carotid artery})
+"(:Artery {name: Right posterior communicating artery})-[:CONNECT_BETWEEN]->(:Artery {name: Right PCA P1, P2, P3})"
+(:Artery {name: Left posterior communicating artery})-[:CONNECT_BETWEEN]->(:Artery {name: Left internal carotid artery})
+"(:Artery {name: Left posterior communicating artery})-[:CONNECT_BETWEEN]->(:Artery {name: Left PCA P1, P2, P3})"
+"(:Artery {name: Left PCA Anterior Temporal artery})-[:FOLLOW]->(:Artery {name: Left PCA P1, P2, P3})"
+"(:Artery {name: Left PCA Posterior Temporal artery})-[:FOLLOW]->(:Artery {name: Left PCA P1, P2, P3})"
+"(:Artery {name: Anterior communicating artery})-[:CONNECT_BETWEEN]->(:Artery {name: Right ACA A1,A2})"
+"(:Artery {name: Anterior communicating artery})-[:CONNECT_BETWEEN]->(:Artery {name: Left ACA A1,A2})"

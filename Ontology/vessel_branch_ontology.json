@@ -1,0 +1,3662 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left anterior basal MCA"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:2"
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left internal carotid artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:3"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 2,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left anterior basal MCA"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:2"
+          },
+          "relationship": {
+            "identity": 1152927002164985858,
+            "start": 2,
+            "end": 3,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985858",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:2",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:3"
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left internal carotid artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:3"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right MCA M1"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:5"
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right internal carotid artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right MCA M1"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:5"
+          },
+          "relationship": {
+            "identity": 1155173304420532229,
+            "start": 5,
+            "end": 1,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532229",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:5",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1"
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right internal carotid artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right M2 superior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6"
+      },
+      "end": {
+        "identity": 5,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right MCA M1"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:5"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right M2 superior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6"
+          },
+          "relationship": {
+            "identity": 6922032627268452357,
+            "start": 6,
+            "end": 5,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6922032627268452357",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:5"
+          },
+          "end": {
+            "identity": 5,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right MCA M1"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:5"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right M2 inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+      },
+      "end": {
+        "identity": 5,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right MCA M1"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:5"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right M2 inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          },
+          "relationship": {
+            "identity": 6924284427082137605,
+            "start": 7,
+            "end": 5,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6924284427082137605",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:5"
+          },
+          "end": {
+            "identity": 5,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right MCA M1"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:5"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 9,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left_MCA_Superior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:9"
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left anterior basal MCA"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:2"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 9,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left_MCA_Superior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:9"
+          },
+          "relationship": {
+            "identity": 1152927002164985865,
+            "start": 9,
+            "end": 2,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985865",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:9",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:2"
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left anterior basal MCA"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:2"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left_MCA_Inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left anterior basal MCA"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:2"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left_MCA_Inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          },
+          "relationship": {
+            "identity": 1152927002164985866,
+            "start": 10,
+            "end": 2,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985866",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:2"
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left anterior basal MCA"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:2"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 11,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right ACA A1,A2"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right internal carotid artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 11,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right ACA A1,A2"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+          },
+          "relationship": {
+            "identity": 1152921504606846987,
+            "start": 11,
+            "end": 1,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152921504606846987",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1"
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right internal carotid artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 12,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left ACA A1,A2"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left internal carotid artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:3"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 12,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left ACA A1,A2"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+          },
+          "relationship": {
+            "identity": 1152921504606846988,
+            "start": 12,
+            "end": 3,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152921504606846988",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:3"
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left internal carotid artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:3"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right orbitofrontal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:13"
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right M2 superior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right orbitofrontal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:13"
+          },
+          "relationship": {
+            "identity": 1152921504606846989,
+            "start": 13,
+            "end": 6,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152921504606846989",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:13",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6"
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right M2 superior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right MCA PreRolandic artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:14"
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right M2 superior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right MCA PreRolandic artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:14"
+          },
+          "relationship": {
+            "identity": 1155173304420532238,
+            "start": 14,
+            "end": 6,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532238",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:14",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6"
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right M2 superior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 15,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right MCA Rolandic artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:15"
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right M2 superior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 15,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right MCA Rolandic artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:15"
+          },
+          "relationship": {
+            "identity": 1155173304420532239,
+            "start": 15,
+            "end": 6,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532239",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:15",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6"
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right M2 superior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:6"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 16,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right MCA Anterior Parietal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:16"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right M2 inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 16,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right MCA Anterior Parietal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:16"
+          },
+          "relationship": {
+            "identity": 1155173304420532240,
+            "start": 16,
+            "end": 7,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532240",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:16",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right M2 inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right MCA Postior Parietal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:17"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right M2 inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right MCA Postior Parietal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:17"
+          },
+          "relationship": {
+            "identity": 1155173304420532241,
+            "start": 17,
+            "end": 7,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532241",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:17",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right M2 inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 18,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right MCA Angular artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:18"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right M2 inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 18,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right MCA Angular artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:18"
+          },
+          "relationship": {
+            "identity": 1155173304420532242,
+            "start": 18,
+            "end": 7,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532242",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:18",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right M2 inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 19,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right MCA Posterior Temporal  artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:19"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right M2 inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 19,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right MCA Posterior Temporal  artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:19"
+          },
+          "relationship": {
+            "identity": 1155173304420532243,
+            "start": 19,
+            "end": 7,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532243",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:19",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right M2 inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right MCA Midtemporal  artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:20"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right M2 inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 20,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right MCA Midtemporal  artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:20"
+          },
+          "relationship": {
+            "identity": 1155173304420532244,
+            "start": 20,
+            "end": 7,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532244",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:20",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right M2 inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right MCA Antior temporal  artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:21"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right M2 inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right MCA Antior temporal  artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:21"
+          },
+          "relationship": {
+            "identity": 1155173304420532245,
+            "start": 21,
+            "end": 7,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532245",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:21",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right M2 inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:7"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left MCA orbitofrontal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:22"
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left_MCA_Superior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:9"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 22,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left MCA orbitofrontal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:22"
+          },
+          "relationship": {
+            "identity": 1155173304420532246,
+            "start": 22,
+            "end": 9,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532246",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:22",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:9"
+          },
+          "end": {
+            "identity": 9,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left_MCA_Superior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:9"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 23,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left MCA PreRolandic artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:23"
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left_MCA_Superior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:9"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 23,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left MCA PreRolandic artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:23"
+          },
+          "relationship": {
+            "identity": 1155173304420532247,
+            "start": 23,
+            "end": 9,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532247",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:23",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:9"
+          },
+          "end": {
+            "identity": 9,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left_MCA_Superior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:9"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 24,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left MCA Rolandic artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:24"
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left_MCA_Superior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:9"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 24,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left MCA Rolandic artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:24"
+          },
+          "relationship": {
+            "identity": 1155173304420532248,
+            "start": 24,
+            "end": 9,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532248",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:24",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:9"
+          },
+          "end": {
+            "identity": 9,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left_MCA_Superior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:9"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 25,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left MCA Anterior Parietal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:25"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left_MCA_Inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 25,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left MCA Anterior Parietal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:25"
+          },
+          "relationship": {
+            "identity": 1155173304420532249,
+            "start": 25,
+            "end": 10,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532249",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:25",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left_MCA_Inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 26,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left MCA Postior Parietal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:26"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left_MCA_Inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 26,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left MCA Postior Parietal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:26"
+          },
+          "relationship": {
+            "identity": 1155173304420532250,
+            "start": 26,
+            "end": 10,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532250",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:26",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left_MCA_Inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left MCA Angular artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:27"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left_MCA_Inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left MCA Angular artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:27"
+          },
+          "relationship": {
+            "identity": 1155173304420532251,
+            "start": 27,
+            "end": 10,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532251",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:27",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left_MCA_Inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left MCA Posterior Temporal  artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:28"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left_MCA_Inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 28,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left MCA Posterior Temporal  artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:28"
+          },
+          "relationship": {
+            "identity": 1155173304420532252,
+            "start": 28,
+            "end": 10,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532252",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:28",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left_MCA_Inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 29,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left MCA Midtemporal  artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:29"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left_MCA_Inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 29,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left MCA Midtemporal  artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:29"
+          },
+          "relationship": {
+            "identity": 1155173304420532253,
+            "start": 29,
+            "end": 10,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532253",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:29",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left_MCA_Inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left MCA Antior temporal  artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:30"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left_MCA_Inferior"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left MCA Antior temporal  artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:30"
+          },
+          "relationship": {
+            "identity": 1155173304420532254,
+            "start": 30,
+            "end": 10,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155173304420532254",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:30",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left_MCA_Inferior"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:10"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right ACA orbitofrontal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:31"
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right ACA A1,A2"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right ACA orbitofrontal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:31"
+          },
+          "relationship": {
+            "identity": 1152921504606847007,
+            "start": 31,
+            "end": 11,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152921504606847007",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:31",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right ACA A1,A2"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right ACA Frontopolar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:32"
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right ACA A1,A2"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right ACA Frontopolar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:32"
+          },
+          "relationship": {
+            "identity": 1152921504606847008,
+            "start": 32,
+            "end": 11,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152921504606847008",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:32",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right ACA A1,A2"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right ACA Callosamarginal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:33"
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right ACA A1,A2"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right ACA Callosamarginal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:33"
+          },
+          "relationship": {
+            "identity": 1152921504606847009,
+            "start": 33,
+            "end": 11,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152921504606847009",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:33",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right ACA A1,A2"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 34,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right ACA Pericallosal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:34"
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right ACA A1,A2"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 34,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right ACA Pericallosal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:34"
+          },
+          "relationship": {
+            "identity": 1152921504606847010,
+            "start": 34,
+            "end": 11,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152921504606847010",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:34",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right ACA A1,A2"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left ACA orbitofrontal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:35"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left ACA A1,A2"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left ACA orbitofrontal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:35"
+          },
+          "relationship": {
+            "identity": 1152921504606847011,
+            "start": 35,
+            "end": 12,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152921504606847011",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:35",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left ACA A1,A2"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 36,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left ACA Frontopolar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:36"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left ACA A1,A2"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 36,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left ACA Frontopolar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:36"
+          },
+          "relationship": {
+            "identity": 1152921504606847012,
+            "start": 36,
+            "end": 12,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152921504606847012",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:36",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left ACA A1,A2"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 37,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left ACA Callosamarginal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:37"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left ACA A1,A2"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 37,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left ACA Callosamarginal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:37"
+          },
+          "relationship": {
+            "identity": 1152921504606847013,
+            "start": 37,
+            "end": 12,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152921504606847013",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:37",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left ACA A1,A2"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 38,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left ACA Pericallosal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:38"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left ACA A1,A2"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 38,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left ACA Pericallosal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:38"
+          },
+          "relationship": {
+            "identity": 1152921504606847014,
+            "start": 38,
+            "end": 12,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152921504606847014",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:38",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left ACA A1,A2"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 39,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right vertebral artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:39"
+      },
+      "end": {
+        "identity": 55,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right posterior inferior cerebellar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:55"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 39,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right vertebral artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:39"
+          },
+          "relationship": {
+            "identity": 1152923703630102567,
+            "start": 39,
+            "end": 55,
+            "type": "BRANCH_OUT",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152923703630102567",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:39",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:55"
+          },
+          "end": {
+            "identity": 55,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right posterior inferior cerebellar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:55"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 39,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right vertebral artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:39"
+      },
+      "end": {
+        "identity": 61,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Basilar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 39,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right vertebral artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:39"
+          },
+          "relationship": {
+            "identity": 1152924803141730343,
+            "start": 39,
+            "end": 61,
+            "type": "MERGES_INTO",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152924803141730343",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:39",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+          },
+          "end": {
+            "identity": 61,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Basilar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 40,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left vertebral artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:40"
+      },
+      "end": {
+        "identity": 58,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left posterior inferior cerebellar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:58"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 40,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left vertebral artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:40"
+          },
+          "relationship": {
+            "identity": 1155175503443787816,
+            "start": 40,
+            "end": 58,
+            "type": "BRANCH_OUT",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155175503443787816",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:40",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:58"
+          },
+          "end": {
+            "identity": 58,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left posterior inferior cerebellar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:58"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 40,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left vertebral artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:40"
+      },
+      "end": {
+        "identity": 61,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Basilar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 40,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left vertebral artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:40"
+          },
+          "relationship": {
+            "identity": 1152924803141730344,
+            "start": 40,
+            "end": 61,
+            "type": "MERGES_INTO",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152924803141730344",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:40",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+          },
+          "end": {
+            "identity": 61,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Basilar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 42,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left Hippocampal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:42"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 42,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left Hippocampal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:42"
+          },
+          "relationship": {
+            "identity": 1152927002164985898,
+            "start": 42,
+            "end": 65,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985898",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:42",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 44,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right Hippocampal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:44"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 44,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right Hippocampal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:44"
+          },
+          "relationship": {
+            "identity": 1152927002164985900,
+            "start": 44,
+            "end": 41,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985900",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:44",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 45,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right PCA Anterior Temporal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:45"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 45,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right PCA Anterior Temporal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:45"
+          },
+          "relationship": {
+            "identity": 1152927002164985901,
+            "start": 45,
+            "end": 41,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985901",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:45",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right PCA Posterior Temporal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:46"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right PCA Posterior Temporal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:46"
+          },
+          "relationship": {
+            "identity": 1152927002164985902,
+            "start": 46,
+            "end": 41,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985902",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:46",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 47,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right Parieto-occipital artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:47"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 47,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right Parieto-occipital artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:47"
+          },
+          "relationship": {
+            "identity": 1152927002164985903,
+            "start": 47,
+            "end": 41,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985903",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:47",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right calcarine artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:48"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right calcarine artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:48"
+          },
+          "relationship": {
+            "identity": 1152927002164985904,
+            "start": 48,
+            "end": 41,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985904",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:48",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 53,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left Parieto-occipital artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:53"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 53,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left Parieto-occipital artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:53"
+          },
+          "relationship": {
+            "identity": 1152927002164985909,
+            "start": 53,
+            "end": 65,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985909",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:53",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 54,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left calcarine artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:54"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 54,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left calcarine artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:54"
+          },
+          "relationship": {
+            "identity": 1152927002164985910,
+            "start": 54,
+            "end": 65,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985910",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:54",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 61,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Basilar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 61,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Basilar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+          },
+          "relationship": {
+            "identity": 1152921504606847037,
+            "start": 61,
+            "end": 41,
+            "type": "FOLLOWS",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152921504606847037",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 61,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Basilar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+      },
+      "end": {
+        "identity": 56,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right anterior inferior cerebellar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:56"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 61,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Basilar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+          },
+          "relationship": {
+            "identity": 1152923703630102589,
+            "start": 61,
+            "end": 56,
+            "type": "BRANCH_OUT",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152923703630102589",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:56"
+          },
+          "end": {
+            "identity": 56,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right anterior inferior cerebellar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:56"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 61,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Basilar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+      },
+      "end": {
+        "identity": 57,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right superior cerebellar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:57"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 61,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Basilar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+          },
+          "relationship": {
+            "identity": 1157427303257473085,
+            "start": 61,
+            "end": 57,
+            "type": "BRANCH_OUT",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1157427303257473085",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:57"
+          },
+          "end": {
+            "identity": 57,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right superior cerebellar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:57"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 61,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Basilar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+      },
+      "end": {
+        "identity": 59,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left anterior inferior cerebellar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:59"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 61,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Basilar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+          },
+          "relationship": {
+            "identity": 1155175503443787837,
+            "start": 61,
+            "end": 59,
+            "type": "BRANCH_OUT",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155175503443787837",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:59"
+          },
+          "end": {
+            "identity": 59,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left anterior inferior cerebellar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:59"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 61,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Basilar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+      },
+      "end": {
+        "identity": 60,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left superior cerebellar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:60"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 61,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Basilar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+          },
+          "relationship": {
+            "identity": 1159679103071158333,
+            "start": 61,
+            "end": 60,
+            "type": "BRANCH_OUT",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1159679103071158333",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:60"
+          },
+          "end": {
+            "identity": 60,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left superior cerebellar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:60"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 61,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Basilar artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 61,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Basilar artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61"
+          },
+          "relationship": {
+            "identity": 1152927002164985917,
+            "start": 61,
+            "end": 65,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985917",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:61",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 62,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right posterior communicating artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:62"
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right internal carotid artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 62,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right posterior communicating artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:62"
+          },
+          "relationship": {
+            "identity": 1155177702467043390,
+            "start": 62,
+            "end": 1,
+            "type": "CONNECT_BETWEEN",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155177702467043390",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:62",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1"
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right internal carotid artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 62,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right posterior communicating artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:62"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 62,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right posterior communicating artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:62"
+          },
+          "relationship": {
+            "identity": 1152925902653358142,
+            "start": 62,
+            "end": 41,
+            "type": "CONNECT_BETWEEN",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152925902653358142",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:62",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:41"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 64,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left posterior communicating artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:64"
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left internal carotid artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:3"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 64,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left posterior communicating artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:64"
+          },
+          "relationship": {
+            "identity": 1155177702467043392,
+            "start": 64,
+            "end": 3,
+            "type": "CONNECT_BETWEEN",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155177702467043392",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:64",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:3"
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left internal carotid artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:3"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 64,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left posterior communicating artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:64"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 64,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left posterior communicating artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:64"
+          },
+          "relationship": {
+            "identity": 1152925902653358144,
+            "start": 64,
+            "end": 65,
+            "type": "CONNECT_BETWEEN",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152925902653358144",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:64",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 66,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left PCA Anterior Temporal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:66"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 66,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left PCA Anterior Temporal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:66"
+          },
+          "relationship": {
+            "identity": 1152927002164985922,
+            "start": 66,
+            "end": 65,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985922",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:66",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 67,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left PCA Posterior Temporal artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:67"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left PCA P1, P2, P3"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 67,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left PCA Posterior Temporal artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:67"
+          },
+          "relationship": {
+            "identity": 1152927002164985923,
+            "start": 67,
+            "end": 65,
+            "type": "FOLLOW",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152927002164985923",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:67",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left PCA P1, P2, P3"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Anterior communicating artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:68"
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Right ACA A1,A2"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Anterior communicating artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:68"
+          },
+          "relationship": {
+            "identity": 1152925902653358148,
+            "start": 68,
+            "end": 11,
+            "type": "CONNECT_BETWEEN",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1152925902653358148",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:68",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Right ACA A1,A2"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:11"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Anterior communicating artery"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:68"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Artery"
+        ],
+        "properties": {
+          "name": "Left ACA A1,A2"
+        },
+        "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Anterior communicating artery"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:68"
+          },
+          "relationship": {
+            "identity": 1155177702467043396,
+            "start": 68,
+            "end": 12,
+            "type": "CONNECT_BETWEEN",
+            "properties": {
+
+            },
+            "elementId": "5:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:1155177702467043396",
+            "startNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:68",
+            "endNodeElementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "Artery"
+            ],
+            "properties": {
+              "name": "Left ACA A1,A2"
+            },
+            "elementId": "4:9b33b929-4dcd-4ec1-bed8-f52783d02f1f:12"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]
